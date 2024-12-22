@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables file
+.env
+
+# Log files
+*.log
+
+# npm debug files
+npm-debug.log*
+
+# Mac system files
+.DS_Store
+
+# IDE files (VS Code, WebStorm, etc.)
+.vscode/
+.idea/
